@@ -844,7 +844,7 @@ header .global-nav__list{
     text-align:center
 }
 header .global-nav__list li{
-    margin-top:7.2rem;
+    margin-top: 2.5rem;
     position:relative;
     padding:0 153px;
     overflow:hidden
@@ -861,7 +861,7 @@ header .global-nav__list li:first-child{
 header .global-nav__list a{
     display:inline-block;
     color:#fff;
-    font-size:12rem;
+    font-size:5rem;
     line-height:1;
     letter-spacing:0.1em;
     font-family:"futura_m";
